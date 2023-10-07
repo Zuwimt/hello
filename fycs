@@ -1,5 +1,6 @@
 #include<stdio.h>
 void main()
 {
+ printf("zuwaina momin")
  printf("Hello World...!!!!");
  }
